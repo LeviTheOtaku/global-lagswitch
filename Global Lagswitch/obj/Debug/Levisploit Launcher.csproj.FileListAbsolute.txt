@@ -1,0 +1,9 @@
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\bin\Debug\Levisploit Launcher.exe.config
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\bin\Debug\Levisploit Launcher.exe
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\bin\Debug\Levisploit Launcher.pdb
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Debug\Levisploit Launcher.csprojAssemblyReference.cache
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Debug\Levisploit_Launcher.Properties.Resources.resources
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Debug\Levisploit Launcher.csproj.GenerateResource.cache
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Debug\Levisploit Launcher.csproj.CoreCompileInputs.cache
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Debug\Levisploit Launcher.exe
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Debug\Levisploit Launcher.pdb

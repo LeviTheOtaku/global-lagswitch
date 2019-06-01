@@ -1,0 +1,7 @@
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\bin\Release\Levisploit Launcher.exe
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Release\Levisploit_Launcher.Properties.Resources.resources
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Release\Levisploit Launcher.csproj.GenerateResource.cache
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Release\Levisploit Launcher.csproj.CoreCompileInputs.cache
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Release\Levisploit Launcher.exe
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Release\Levisploit.MainForm.resources
+D:\levij\source\repos\Levisploit Launcher\Levisploit Launcher\obj\Release\Levisploit Launcher.csprojAssemblyReference.cache

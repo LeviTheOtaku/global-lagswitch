@@ -1,0 +1,7 @@
+D:\levij\source\repos\LS Lagswitch\Levisploit Lagswitch\obj\Release\Levisploit.MainForm.resources
+D:\levij\source\repos\LS Lagswitch\Levisploit Lagswitch\obj\Release\Levisploit Lagswitch.csproj.GenerateResource.cache
+D:\levij\source\repos\LS Lagswitch\Levisploit Lagswitch\obj\Release\Levisploit Lagswitch.csproj.CoreCompileInputs.cache
+D:\levij\source\repos\LS Lagswitch\Levisploit Lagswitch\obj\Release\Levisploit Lagswitch.csproj.Fody.CopyLocal.cache
+D:\levij\source\repos\LS Lagswitch\Levisploit Lagswitch\bin\Release\Levisploit Lagswitch.exe
+D:\levij\source\repos\LS Lagswitch\Levisploit Lagswitch\obj\Release\Levisploit_Lagswitch.Properties.Resources.resources
+D:\levij\source\repos\LS Lagswitch\Levisploit Lagswitch\obj\Release\Levisploit Lagswitch.exe
