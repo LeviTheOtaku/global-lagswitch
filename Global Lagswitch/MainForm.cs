@@ -10,6 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NetFwTypeLib;
 using System.Diagnostics;
+using System.Threading;
 
 namespace GlobalLagswitch
 {
@@ -29,6 +30,11 @@ namespace GlobalLagswitch
                 }
             }
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+        }
+        
 
         private bool mouseDown;
         private Point lastLocation;
@@ -75,6 +81,16 @@ namespace GlobalLagswitch
 
         private void lsonButton_Click(object sender, EventArgs e)
         {
+            on();
+        }
+
+        private void lsoffButton_Click(object sender, EventArgs e)
+        {
+            off();
+        }
+
+        private void on()
+        {
             try
             {
                 INetFwRule firewallRule = (INetFwRule)Activator.CreateInstance(
@@ -113,9 +129,10 @@ namespace GlobalLagswitch
                 MessageBox.Show("Please run as an admin.");
                 this.Close();
             }
+
         }
 
-        private void lsoffButton_Click(object sender, EventArgs e)
+        private void off()
         {
             try
             {
@@ -128,7 +145,6 @@ namespace GlobalLagswitch
             {
             }
         }
-        
         
         private void processListBox_Click(object sender, EventArgs e)
         {
