@@ -11,6 +11,8 @@ using System.Threading.Tasks;
 using NetFwTypeLib;
 using System.Diagnostics;
 using System.Threading;
+using GlobalHotKey;
+using System.Windows.Input;
 
 namespace GlobalLagswitch
 {
@@ -19,6 +21,11 @@ namespace GlobalLagswitch
         public MainForm()
         {
             InitializeComponent();
+            HotKeyManager hotKeyManager = new HotKeyManager();
+            hotKeyManager.KeyPressed += HotKeyManagerPressed;
+
+            var hotKey = hotKeyManager.Register(Key.E, System.Windows.Input.ModifierKeys.Control);
+            var hotKey2 = hotKeyManager.Register(Key.R, System.Windows.Input.ModifierKeys.Control);
 
             Process[] processlist = Process.GetProcesses();
             foreach (Process process in processlist)
@@ -31,11 +38,19 @@ namespace GlobalLagswitch
             }
         }
 
+        private void HotKeyManagerPressed(object sender, KeyPressedEventArgs e)
+        {
+            if (e.HotKey.Key == Key.E)
+                on();
+
+            if (e.HotKey.Key == Key.R)
+                off();
+        }
+
         private void MainForm_Load(object sender, EventArgs e)
         {
         }
         
-
         private bool mouseDown;
         private Point lastLocation;
 

@@ -45,6 +45,9 @@
     <Reference Include="FirewallManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\FirewallManager.1.0.2\lib\FirewallManager.dll</HintPath>
     </Reference>
+    <Reference Include="GlobalHotKey, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\GlobalHotKey.1.1.0\lib\GlobalHotKey.dll</HintPath>
+    </Reference>
     <Reference Include="Interop.NATUPNPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\FirewallManager.1.0.2\lib\Interop.NATUPNPLib.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
@@ -68,6 +71,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainForm.cs">
