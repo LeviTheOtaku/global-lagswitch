@@ -138,10 +138,10 @@ namespace GlobalLagswitch
                 {
                 }
             }
-            catch
+            catch (Exception ex)
             {
                 statusLabel.Text = "Status: Please run as an admin.";
-                MessageBox.Show("Please run as an admin.");
+                MessageBox.Show("Try running as an admin! \n" + ex.ToString());
                 this.Close();
             }
 

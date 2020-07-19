@@ -1,6 +1,5 @@
 D:\levij\source\repos\Global Lagswitch\Global Lagswitch\obj\Debug\Global Lagswitch.csprojAssemblyReference.cache
 D:\levij\source\repos\Global Lagswitch\Global Lagswitch\obj\Debug\Global Lagswitch.csproj.GenerateResource.cache
-D:\levij\source\repos\Global Lagswitch\Global Lagswitch\obj\Debug\Global Lagswitch.csproj.CoreCompileInputs.cache
 D:\levij\source\repos\Global Lagswitch\Global Lagswitch\obj\Debug\Global Lagswitch.csproj.Fody.CopyLocal.cache
 D:\levij\source\repos\Global Lagswitch\Global Lagswitch\obj\Debug\GlobalLagswitch.MainForm.resources
 D:\levij\source\repos\Global Lagswitch\Global Lagswitch\bin\Debug\Global Lagswitch.exe
@@ -8,3 +7,4 @@ D:\levij\source\repos\Global Lagswitch\Global Lagswitch\bin\Debug\Global Lagswit
 D:\levij\source\repos\Global Lagswitch\Global Lagswitch\obj\Debug\GlobalLagswitch.Properties.Resources.resources
 D:\levij\source\repos\Global Lagswitch\Global Lagswitch\obj\Debug\Global Lagswitch.exe
 D:\levij\source\repos\Global Lagswitch\Global Lagswitch\obj\Debug\Global Lagswitch.pdb
+D:\levij\source\repos\Global Lagswitch\Global Lagswitch\bin\Debug\Global Lagswitch.exe.config
