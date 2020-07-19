@@ -106,7 +106,7 @@
             this.hotkeyInfo.AutoSize = true;
             this.hotkeyInfo.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hotkeyInfo.ForeColor = System.Drawing.Color.White;
-            this.hotkeyInfo.Location = new System.Drawing.Point(12, 107);
+            this.hotkeyInfo.Location = new System.Drawing.Point(12, 97);
             this.hotkeyInfo.Name = "hotkeyInfo";
             this.hotkeyInfo.Size = new System.Drawing.Size(175, 15);
             this.hotkeyInfo.TabIndex = 71;
@@ -117,7 +117,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
-            this.ClientSize = new System.Drawing.Size(296, 144);
+            this.ClientSize = new System.Drawing.Size(296, 122);
             this.Controls.Add(this.hotkeyInfo);
             this.Controls.Add(this.statusLabel);
             this.Controls.Add(this.processListBox);

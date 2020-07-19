@@ -19,6 +19,18 @@ namespace Global_Lagswitch
         {
             InitializeComponent();
 
+
+            Process[] processlist = Process.GetProcesses();
+            foreach (Process process in processlist)
+            {
+                if (!String.IsNullOrEmpty(process.MainWindowTitle))
+                {
+                    object processItem = process.ProcessName;
+                    processListBox.Items.Add(processItem);
+                }
+            }
+
+
             int id = 0;
             RegisterHotKey(this.Handle, id, (int)KeyModifier.Shift, Keys.F.GetHashCode());
         }
@@ -140,7 +152,6 @@ namespace Global_Lagswitch
         {
             processListBox.Items.Clear();
 
-
             Process[] processlist = Process.GetProcesses();
             foreach (Process process in processlist)
             {
@@ -151,6 +162,5 @@ namespace Global_Lagswitch
                 }
             }
         }
-
     }
 }
