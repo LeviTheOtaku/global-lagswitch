@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Global Lagswitch", "Global Lagswitch\Global Lagswitch.csproj", "{5AB6BE16-EDBF-4884-A842-CFE2AFC3FD37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Global Lagswitch", "Global Lagswitch\Global Lagswitch.csproj", "{593C9A6D-6067-478E-A363-D36EE988A1BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5AB6BE16-EDBF-4884-A842-CFE2AFC3FD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5AB6BE16-EDBF-4884-A842-CFE2AFC3FD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5AB6BE16-EDBF-4884-A842-CFE2AFC3FD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5AB6BE16-EDBF-4884-A842-CFE2AFC3FD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593C9A6D-6067-478E-A363-D36EE988A1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593C9A6D-6067-478E-A363-D36EE988A1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593C9A6D-6067-478E-A363-D36EE988A1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593C9A6D-6067-478E-A363-D36EE988A1BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4F03CBD0-E635-42DA-BE9A-566207BBBEF7}
+		SolutionGuid = {69548A4A-8581-4F85-9C36-EAD1316BC580}
 	EndGlobalSection
 EndGlobal
